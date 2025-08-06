@@ -21,7 +21,7 @@ Run your own **ChatGPT-like interface** entirely offline using:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/ashubambal/ollama-gpt.git
+git clone https://github.com/Kalyani-Bambal/ollama-gpt-project.git
 cd ollama-gpt
 ```
 
